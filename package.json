@@ -17,7 +17,7 @@
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
     "test": "jest",
-    "e2e": "detox test --configuration ios.sim --loglevel verbose "
+    "e2e": "detox test --configuration ios.sim "
   },
   "jest": {
     "preset": "jest-expo"
