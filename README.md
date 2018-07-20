@@ -11,6 +11,7 @@ Note: Create a folder by name bin/ in our react-native project and place the Exp
 "react": "16.3.1",
 "react-native": "~0.55.2"
 
+
 #Downloaded Devdependencies
  "detox": "^8.0.0",
  "detox-expo-helpers": "^0.2.0",
@@ -18,9 +19,12 @@ Note: Create a folder by name bin/ in our react-native project and place the Exp
  "mocha": "^5.2.0",
  "react-native-scripts": "1.14.0",
  "react-test-renderer": "16.3.1"
+#Global Installations
+  "Node":8.11.3
+  "exp":55.0.5 
 
  #Execution using 
- $npm install  //make sure all the dependencies are installed
+ $ npm install  //make sure all the dependencies are installed
  $ exp start
 
  In another terminal 
